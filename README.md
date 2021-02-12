@@ -1,7 +1,4 @@
 # Open Life Science 3
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [third cohort of Open Life Science](https://openlifesci.org/ols-3) (OLS-3) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
