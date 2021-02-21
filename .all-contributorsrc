@@ -387,10 +387,19 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "teresa-m",
+      "name": "teresa-m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15613169?v=4",
+      "profile": "https://github.com/teresa-m",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "ols-2",
+  "projectName": "ols-3",
   "projectOwner": "open-life-science",
   "repoType": "github",
   "repoHost": "https://github.com",
